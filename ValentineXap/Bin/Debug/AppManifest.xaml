@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="ValentineXap" EntryPointType="ValentineXap.App" RuntimeVersion="3.0.40818.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="ValentineXap" Source="ValentineXap.dll" />
+  </Deployment.Parts>
+</Deployment>

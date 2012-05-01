@@ -1,0 +1,5 @@
+C:\@DA [Inspiron17RN]\Valentine\ValentineTestharness\bin\ValentineTestharness.dll
+C:\@DA [Inspiron17RN]\Valentine\ValentineTestharness\bin\ValentineTestharness.pdb
+C:\@DA [Inspiron17RN]\Valentine\ValentineTestharness\obj\Debug\ResolveAssemblyReference.cache
+C:\@DA [Inspiron17RN]\Valentine\ValentineTestharness\obj\Debug\ValentineTestharness.dll
+C:\@DA [Inspiron17RN]\Valentine\ValentineTestharness\obj\Debug\ValentineTestharness.pdb

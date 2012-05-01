@@ -1,0 +1,42 @@
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\Bin\Debug\AppManifest.xaml
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\Bin\Debug\SL20090116a.dll
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\Bin\Debug\SL20090116a.pdb
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\Bin\Debug\SL20090116a.xap
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\Bin\Debug\TestPage.html
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\ResolveAssemblyReference.cache
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\App.g.cs
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\Page.g.cs
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\SL20090116a.g.resources
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\SL20090116a.dll
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\SL20090116a.pdb
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\XapCacheFile.xml
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\Play002.g.cs
+C:\@Serena [Dell Studio 1537]\Website\SL20090116a\SL20090116a\obj\Debug\ValentineHeart01.g.cs
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\Bin\Debug\SL20090116a.dll
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\Bin\Debug\SL20090116a.pdb
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\Bin\Debug\AppManifest.xaml
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\Bin\Debug\SL20090116a.xap
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\Bin\Debug\TestPage.html
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\ResolveAssemblyReference.cache
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\App.g.cs
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\Page.g.cs
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\Play002.g.cs
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\ValentineHeart01.g.cs
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\SL20090116a.g.resources
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\SL20090116a.dll
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\SL20090116a.pdb
+C:\@DA [Inspiron17RN]\SL20090116a\SL20090116a\obj\Debug\XapCacheFile.xml
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\Bin\Debug\SL20090116a.dll
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\Bin\Debug\SL20090116a.pdb
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\Bin\Debug\AppManifest.xaml
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\Bin\Debug\SL20090116a.xap
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\Bin\Debug\TestPage.html
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\ResolveAssemblyReference.cache
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\App.g.cs
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\Page.g.cs
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\Play002.g.cs
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\ValentineHeart01.g.cs
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\SL20090116a.g.resources
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\SL20090116a.dll
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\SL20090116a.pdb
+C:\@DA [Inspiron17RN]\Valentine\SL20090116a\obj\Debug\XapCacheFile.xml
